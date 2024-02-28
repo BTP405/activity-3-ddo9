@@ -8,3 +8,7 @@
 #Implement a protocol for serializing and deserializing tasks using pickling.
 #Handle task distribution, execution, and result retrieval in both the client and worker nodes.
 #Ensure fault tolerance and scalability by handling connection errors, timeouts, and dynamic addition/removal of worker nodes.
+
+
+# Worker and Client is in Q2Tasks
+# Worker.py and then Client.py must be ran in that order
